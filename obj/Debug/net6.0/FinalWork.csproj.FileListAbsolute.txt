@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\bin\Debug\net6.0\FinalWork.exe
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\bin\Debug\net6.0\FinalWork.deps.json
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\bin\Debug\net6.0\FinalWork.runtimeconfig.json
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\bin\Debug\net6.0\FinalWork.dll
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\bin\Debug\net6.0\FinalWork.pdb
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\obj\Debug\net6.0\FinalWork.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\obj\Debug\net6.0\FinalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\obj\Debug\net6.0\FinalWork.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\obj\Debug\net6.0\FinalWork.AssemblyInfo.cs
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\obj\Debug\net6.0\FinalWork.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\obj\Debug\net6.0\FinalWork.dll
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\obj\Debug\net6.0\refint\FinalWork.dll
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\obj\Debug\net6.0\FinalWork.pdb
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\obj\Debug\net6.0\FinalWork.genruntimeconfig.cache
+C:\Users\1\Desktop\BodrovEx\BodrovWorkGroup\FinalWork\obj\Debug\net6.0\ref\FinalWork.dll
